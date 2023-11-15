@@ -18,6 +18,7 @@
 #define EXTERN_INLINE_KALMAN static INLINE
 
 #include <assert.h>
+#include <stdio.h>
 #include "kalman_example_gravity.h"
 
 // create the filter structure
