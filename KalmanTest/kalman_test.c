@@ -152,7 +152,7 @@ static matrix_data_t measurement_error[MEAS_COUNT] = {
 /*!
 * \brief Runs the gravity Kalman filter.
 */
-void kalman_gravity_demo()
+void kalman_test()
 {
     // initialize the filter
     kalman_gravity_init();
